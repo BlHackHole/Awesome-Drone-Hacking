@@ -203,7 +203,6 @@
 * [Aircrack-ng](https://aircrack-ng.org) - Deauth and WPA cracking toolkit.
 * [Bettercap](https://github.com/bettercap/bettercap) - MITM framework to hijack drone app traffic.
 * [WifiPhisher](https://github.com/wifiphisher/wifiphisher) - Automated Evil Twin to phish Drone app creds.
-* [DangerDrone](https://resources.bishopfox.com/resources/tools/drones-penetration-testers/attack-tools/) - A DIY penetration testing quadcopter platform announced at Black Hat 2016.
 * [WASP](https://www.suasnews.com/2010/08/wi-fi-aerial-surveillance-platform-wasp/) - Wireless Aerial Surveillance Platform.
 * [Hack-a-drone](https://github.com/Ordina-JTech/hack-a-drone?tab=readme-ov-file) - A Java-based project allowing control of Wi‑Fi drones (e.g. Cheerson CX‑10) via app or keyboard, demonstrating remote command capabilities.
 
@@ -211,7 +210,6 @@
 * [WFB-ng](https://github.com/svpcom/wfb-ng) - Low‑latency UDP Wi‑Fi broadcast for FPV drones.
 * [OpenIPC](https://openipc.org/) - Open firmware turning IP cameras into low‑cost FPV links.
 * [RubyFPV](https://rubyfpv.com/) - Cross‑platform digital FPV stack for Wi‑Fi dongles.
-* [RunCam WifiLink](https://shop.runcam.com/runcam-wifilink-based-on-openipc/) - 5.8 GHz Wi‑Fi FPV adapter with open protocol docs.
 
 ## 📺 FPV & Payloads
 
@@ -269,7 +267,6 @@
 * Firmware Analysis Toolkit
 * [cwe_checker](https://github.com/fkie-cad/cwe_checker) - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 * [emba](https://github.com/e-m-b-a/emba) - Analyze Linux-based firmware of embedded devices.
-* [Firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
 * [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
 * [Radare2](https://github.com/radareorg/radare2) - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
@@ -368,7 +365,6 @@
 * [Autel Robotics](https://www.autelrobotics.com/protocol/) - Autel Robotics Vulnerability Disclosure.
 * [ROS](https://ros.org/reps/rep-2006.html) - ROS Vulnerability Disclosure Policy.
 * [DroneDeploy](https://help.dronedeploy.com/hc/en-us/articles/1500004862001-Vulnerability-Reporting-Policy) - DroneDeploy Vulnerability Reporting Policy.
-* [Zipline](https://www.zipline.com/zipline-vulnerability-disclosure-policy) - Zipline Vulnerability Disclosure Policy.
 * [IRIS Automation / uAvioni](https://www.irisonboard.com/responsible-disclosure/) - IRIS Automation / uAvioni Vulnerability Disclosure.
 * [Ameta](https://ametasmart.com/pages/ameta-vulnerability-disclosure-policy) - Ameta Vulnerability Disclosure Policy.
 * [Ouster](https://ouster.com/responsible-disclosure-policy) - Ouster Responsible Disclosure Policy.
